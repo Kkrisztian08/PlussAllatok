@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\Plush as RequestsPlush;
 use App\Http\Requests\PlushCreate;
 use App\Http\Requests\PlushUpdate;
 use App\Models\Plush;
